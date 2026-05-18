@@ -1,0 +1,42 @@
+# PES-trans-writer Manifest
+
+Skill name: PES-trans-writer
+Purpose: IEEE PES Transactions manuscript drafting from project code/data with contribution, narrative, figure, reference, and evidence gates.
+
+Files:
+- CHANGELOG.md
+- Makefile
+- README.md
+- SKILL.md
+- checklists/pre_submission_checklist.md
+- checklists/style_calibration_checklist.md
+- examples/workflow.md
+- requirements.txt
+- scripts/_common.py
+- scripts/build_figure_plan.py
+- scripts/build_ieee_skeleton.py
+- scripts/build_narrative_map.py
+- scripts/inspect_project.py
+- scripts/latex_sanity_check.py
+- scripts/style_lint.py
+- scripts/summarize_results.py
+- scripts/validate_bibtex.py
+- scripts/validate_narrative_logic.py
+- templates/abstract_style_patterns.md
+- templates/claim_evidence_table_template.md
+- templates/contribution_intake_form.md
+- templates/contribution_patterns.md
+- templates/figure_planning_guide.md
+- templates/figure_structure_template.md
+- templates/introduction_style_guide.md
+- templates/macros.tex
+- templates/main_minimal.tex
+- templates/narrative_logic_map_template.md
+- templates/numerical_results_style.md
+- templates/pes_phrase_bank.md
+- templates/reference_audit_template.md
+- templates/reference_policy.md
+- templates/reproducibility_manifest_template.md
+- templates/result_paragraph_patterns.md
+- templates/section_logic_guide.md
+- tests/smoke_test.py

@@ -1,0 +1,4 @@
+# Optional dependencies for result summarization and richer project inspection.
+pandas>=1.5
+openpyxl>=3.1
+scipy>=1.10
